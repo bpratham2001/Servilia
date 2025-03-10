@@ -1,0 +1,16 @@
+word - description
+Chardonnay - One of the most widely planted and recognized white grapes in the world, Chardonnay can produce a wide range of styles but tends to produce medium to full-bodied whites that can be quite complex.
+Chenin Blanc - Best known for its role in the Loire Valley of France, Chenin is the grape of Vouvray and Savennières amongst others.
+Gewurztraminer - An often misunderstood wine, the flamboyant personality of Gewurz can either make you love it or hate it on first sniff.
+Pinot Grigio - A very popular grape for simple white wines from Italy. The grape variety is known as Pinot Gris in France and produces quite different wines.
+Pinot Gris - Although it is technically the same grape as Pinot Grigio, the wines made from Pinot Gris in Alsace in France are quite different.
+Riesling - Riesling is one of the more misunderstood grape varieties, yet it is capable of producing some of the most intriguing and thrilling wines in the world.
+Sauvignon Blanc - Another widely planted and popular white grape, Sauvignon Blanc is often seen as the yin to Chardonnay's yang.
+Cabernet Franc - Often used as a blending grape with other Bordeaux varietals, Cab Franc is also used as a principal grape in the Loire Valley of France and in a few wines of Bordeaux's Right Bank.
+Cabernet Sauvignon - Probably the most well known red grape in the world, Cabernet is the most important grape of the Left Bank wines of Bordeaux but is widely planted and examples from California, Australia, Italy and others have become world famous.
+Grenache - Until recently, this grape was not as widely known. But with the explosion of interest in Chateauneuf-du-Pape and other Rhone wines, its popularity has spread and now there are many examples from California and Australia.
+Merlot - The second most famous wine of Bordeaux, Merlot is often used in blends with Cabernet Sauvignon or as a principal grape in wines from the Right Bank and in many other regions such as California, Italy and others.
+Nebbiolo - While its use in other regions around the world has been slow to catch on, Nebbiolo is still considered one of the most noble grape varieties because it is the grape that produces Barbaresco and Barolo in Piedmont Italy.
+Pinot Noir - Pinot Noir is a noble variety best known for being the grape of red Burgundy. It is an enigmatic wine capable of making some of the best wines in the world. It is widely planted and examples from California, Oregon and others are very popular.
+Syrah - The grape of the northern Rhone Valley in France, Syrah is the main grape in the wines of Hermitage, Cote Rotie and others. It has become popular elsewhere as well, making rich, structured wines in California and Australia, where it is known as Shiraz.
+Zinfandel - Probably derived from more ancient varieties that were brought over to California from Italy long ago, this grape in its current form is almost exclusively grown in California. It makes zesty, fruity wines.
